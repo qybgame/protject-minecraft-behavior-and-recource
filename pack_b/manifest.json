@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Pack_b",
+        "name": "Vanilla Behavior Pack",
+        "uuid": "75db1cf4-1ada-4206-8d47-7c649717f06b",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 16, 220 ]
+    },
+    "modules": [
+        {
+            "description": "description",
+            "type": "data",
+            "uuid": "761f71d3-1b24-493b-9383-6be348b5e08b",
+            "version": [1, 0, 0]
+        }
+    ],
